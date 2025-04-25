@@ -1,4 +1,4 @@
-# java-explore-with-me
+# EventFlow
 ## Pull Requests
 
 - **Statistic service**
